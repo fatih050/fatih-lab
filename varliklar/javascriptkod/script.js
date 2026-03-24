@@ -3,13 +3,6 @@ function ikiEkle(sayi) {
     return sonuc;
 }
 let deger = ikiEkle(10);
-
-function birEkle(sayi) {
-    let sonuc = sayi+1;
-    return sonuc;
-}
-let sonDeger = birEkle(deger);
-
 function kareAl(sayi) {
     let kare = sayi**2;
     return kare;
