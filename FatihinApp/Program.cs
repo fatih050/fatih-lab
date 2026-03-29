@@ -1,1 +1,1 @@
-﻿Console.WriteLine("MERHABA DÜNYA");
+﻿
